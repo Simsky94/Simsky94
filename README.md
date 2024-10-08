@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Grupo Autofin México**
 
-- 🌱 I’m currently learning **php, python**
+- 🌱 I’m currently learning **react, mongodb**
 
 - 👯 I’m looking to collaborate on **New technologies**
 
