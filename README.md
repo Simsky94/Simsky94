@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Grupo Autofin México**
 
-- 🌱 I’m currently learning **react, mongodb**
+- 🌱 I’m currently learning **React, MongoDB**
 
 - 👯 I’m looking to collaborate on **New technologies**
 
-- 💬 Ask me about **c#, js, sql, html**
+- 💬 Ask me about **C#, JS, SQL, HTML**
 
 - 📫 How to reach me **y2k_erick@hotmail.com**
 
